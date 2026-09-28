@@ -1,0 +1,68 @@
+<TD>
+<IMG SRC=Pics04small/Channell.jpg WIDTH=106 HEIGHT=150><BR>
+<B>Bill Channell</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Cochran.jpg WIDTH=121 HEIGHT=150><BR>
+<B>Doug Cochran</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Dangerfield.jpg WIDTH=136 HEIGHT=150><BR>
+<B>Brad Dangerfield</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Freisen.jpg WIDTH=113 HEIGHT=150><BR>
+<B>Ed Freisen</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Heckathorn.jpg WIDTH=107 HEIGHT=150><BR>
+<B>Troy Heckathorn</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Householder.jpg WIDTH=121 HEIGHT=150><BR>
+<B>Jim Householder</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Jadick.jpg WIDTH=108 HEIGHT=150><BR>
+<B>Bob Jadick</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Medallis.jpg WIDTH=105 HEIGHT=150><BR>
+<B>Rob Medallis</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Pal.jpg WIDTH=107 HEIGHT=150><BR>
+<B>Paul Pal</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Ratini.jpg WIDTH=99 HEIGHT=150><BR>
+<B>Al Ratini</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Ross.jpg WIDTH=102 HEIGHT=150><BR>
+<B>Tim Ross</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Slabaugh.jpg WIDTH=105 HEIGHT=150><BR>
+<B>Mike Slabaugh</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Svette.jpg WIDTH=99 HEIGHT=150><BR>
+<B>Jared Svette</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Wilson.jpg WIDTH=89 HEIGHT=150><BR>
+<B>Jeff Wilson</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Wolfe.jpg WIDTH=107 HEIGHT=150><BR>
+<B>Jim Wolfe</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Zeh.jpg WIDTH=95 HEIGHT=150><BR>
+<B>Brian Zeh</B>
+</TD>
+<TD>
+<IMG SRC=Pics04small/Zwilling.jpg WIDTH=97 HEIGHT=150><BR>
+<B>Mike Zwilling</B>
+</TD>
